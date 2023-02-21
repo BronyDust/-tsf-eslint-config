@@ -1,0 +1,28 @@
+{
+  "name": "@tsf/eslint-config",
+  "version": "0.0.1",
+  "description": "Eslint/Prettier configuration for TSF projects",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "eslint",
+    "prettier",
+    "eslintrc",
+    "config"
+  ],
+  "author": "Ryan Wright",
+  "peerDependencies": {
+    "eslint": "^8.34.0",
+    "prettier": "^2.8.4"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.53.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-standard-with-typescript": "^34.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "*"
+  }
+}
