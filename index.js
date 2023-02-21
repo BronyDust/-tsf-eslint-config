@@ -9,6 +9,14 @@ module.exports = {
   rules: {
     "prettier/prettier": "error",
   },
+  overrides: [
+    {
+      files: ["*.d.ts"],
+      rules: {
+        "@typescript-eslint/consistent-type-imports": "off"
+      }
+    }
+  ],
   parserOptions: {
     ecmaVersion: "latest",
     sourceType: "module",
