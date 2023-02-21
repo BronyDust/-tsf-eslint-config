@@ -13,7 +13,8 @@
   "author": "Ryan Wright",
   "peerDependencies": {
     "eslint": "^8.34.0",
-    "prettier": "^2.8.4"
+    "prettier": "^2.8.4",
+    "typescript": "*"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.53.0",
