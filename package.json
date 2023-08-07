@@ -12,18 +12,18 @@
   ],
   "author": "Ryan Wright",
   "peerDependencies": {
-    "eslint": "^8.34.0",
-    "prettier": "^2.8.4",
+    "eslint": "^8.46.0",
+    "prettier": "^3.0.1",
     "typescript": "*"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.53.0",
-    "@typescript-eslint/parser": "^5.53.0",
-    "eslint-config-prettier": "^8.6.0",
-    "eslint-config-standard-with-typescript": "^34.0.0",
-    "eslint-plugin-import": "^2.27.5",
-    "eslint-plugin-n": "^15.6.1",
-    "eslint-plugin-prettier": "^4.2.1",
+    "@typescript-eslint/eslint-plugin": "^6.3.0",
+    "@typescript-eslint/parser": "^6.3.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-standard-with-typescript": "^37.0.0",
+    "eslint-plugin-import": "^2.28.0",
+    "eslint-plugin-n": "^16.0.1",
+    "eslint-plugin-prettier": "^5.0.0",
     "eslint-plugin-promise": "^6.1.1"
   }
 }
